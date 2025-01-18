@@ -1,0 +1,1 @@
+This error occurs when using Tailwind CSS in a Next.js application. When trying to apply a Tailwind CSS class to an element, the class is not applied, and there are no error messages in the console.  The issue is often related to the way Tailwind CSS is configured and integrated within the Next.js environment.
